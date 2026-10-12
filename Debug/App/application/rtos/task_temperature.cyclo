@@ -1,0 +1,6 @@
+../App/application/rtos/task_temperature.c:13:13:_onFanStateChanged	1
+../App/application/rtos/task_temperature.c:15:13:_runner	16
+../App/application/rtos/task_temperature.c:119:13:_wrapper	1
+../App/application/rtos/task_temperature.c:125:11:TaskTemperature_Initialize	2
+../App/application/rtos/task_temperature.c:146:11:TaskTemperature_Deinitialize	2
+../App/application/rtos/task_temperature.c:155:6:TaskTemperature_GetLastErrorInfo	2

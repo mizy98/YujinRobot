@@ -1,0 +1,9 @@
+../App/domain/service/buzzer.c:75:13:_stopLocked	1
+../App/domain/service/buzzer.c:83:13:_startPulse	3
+../App/domain/service/buzzer.c:103:13:_onTimer	6
+../App/domain/service/buzzer.c:127:11:Buzzer_Initialize	7
+../App/domain/service/buzzer.c:171:11:Buzzer_Deinitialize	2
+../App/domain/service/buzzer.c:187:6:Buzzer_GetLastErrorInfo	2
+../App/domain/service/buzzer.c:193:11:Buzzer_Beep	5
+../App/domain/service/buzzer.c:218:11:Buzzer_Stop	3
+../App/domain/service/buzzer.c:232:12:Buzzer_GetCurrentType	3

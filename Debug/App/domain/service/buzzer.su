@@ -1,0 +1,9 @@
+../App/domain/service/buzzer.c:75:13:_stopLocked	8	static
+../App/domain/service/buzzer.c:83:13:_startPulse	24	static
+../App/domain/service/buzzer.c:103:13:_onTimer	24	static
+../App/domain/service/buzzer.c:127:11:Buzzer_Initialize	152	static
+../App/domain/service/buzzer.c:171:11:Buzzer_Deinitialize	8	static
+../App/domain/service/buzzer.c:187:6:Buzzer_GetLastErrorInfo	16	static
+../App/domain/service/buzzer.c:193:11:Buzzer_Beep	160	static
+../App/domain/service/buzzer.c:218:11:Buzzer_Stop	144	static
+../App/domain/service/buzzer.c:232:12:Buzzer_GetCurrentType	152	static

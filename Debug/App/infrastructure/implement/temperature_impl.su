@@ -1,0 +1,5 @@
+../App/infrastructure/implement/temperature_impl.c:24:13:_onAdcCompleted	16	static
+../App/infrastructure/implement/temperature_impl.c:26:11:Temperature_Initialize	296	static
+../App/infrastructure/implement/temperature_impl.c:67:11:Temperature_DeInitialize	4	static
+../App/infrastructure/implement/temperature_impl.c:69:6:Temperature_GetLastErrorInfo	16	static
+../App/infrastructure/implement/temperature_impl.c:75:11:Temperature_GetDatas	208	static

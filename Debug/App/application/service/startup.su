@@ -1,0 +1,5 @@
+../App/application/service/../../domain/model/bms_config.h:197:20:_BmsConfig_SetCommon	24	static
+../App/application/service/../../domain/model/bms_config.h:295:20:_BmsConfig_SetNcm	16	static
+../App/application/service/../../domain/model/bms_config.h:764:25:BmsConfig_CreateDefault	1040	static
+../App/application/service/../../domain/model/bms_info.h:40:23:BmsInfo_CreateDefault	120	static
+../App/application/service/startup.c:13:11:Startup_Initialize	1152	static

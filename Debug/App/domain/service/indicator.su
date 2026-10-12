@@ -1,0 +1,4 @@
+../App/domain/service/indicator.c:33:13:_processSoc	32	static
+../App/domain/service/indicator.c:170:13:_processState	24	static
+../App/domain/service/indicator.c:239:6:Indicator_Initialize	4	static
+../App/domain/service/indicator.c:248:6:Indicator_Process	16	static

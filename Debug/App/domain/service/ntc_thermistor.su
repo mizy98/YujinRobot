@@ -1,0 +1,4 @@
+../App/domain/service/ntc_thermistor.c:77:13:_initializeTable	32	static
+../App/domain/service/ntc_thermistor.c:112:14:_ToTemperature	32	static
+../App/domain/service/ntc_thermistor.c:146:6:NtcThermistor_Initialize	16	static
+../App/domain/service/ntc_thermistor.c:153:7:NtcThermistor_GetTemperature	16	static

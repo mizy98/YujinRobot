@@ -1,0 +1,17 @@
+../App/infrastructure/service/nand_flash.c:25:13:_onTxComplete	16	static
+../App/infrastructure/service/nand_flash.c:29:13:_onRxComplete	16	static
+../App/infrastructure/service/nand_flash.c:33:13:_onError	16	static
+../App/infrastructure/service/nand_flash.c:35:12:_write	24	static
+../App/infrastructure/service/nand_flash.c:51:12:_read	24	static
+../App/infrastructure/service/nand_flash.c:67:13:_setCsPin	16	static
+../App/infrastructure/service/nand_flash.c:72:13:_setWpPin	16	static
+../App/infrastructure/service/nand_flash.c:77:13:_setHoldPin	16	static
+../App/infrastructure/service/nand_flash.c:82:11:NandFlash_Initialize	184	static
+../App/infrastructure/service/nand_flash.c:124:11:NandFlash_Deinitialize	144	static
+../App/infrastructure/service/nand_flash.c:142:6:NandFlash_GetLastErrorInfo	16	static
+../App/infrastructure/service/nand_flash.c:148:6:NandFlash_IsInitialized	4	static
+../App/infrastructure/service/nand_flash.c:150:6:NandFlash_GetInfo	24	static
+../App/infrastructure/service/nand_flash.c:158:11:NandFlash_Write	32	static
+../App/infrastructure/service/nand_flash.c:172:11:NandFlash_Read	32	static
+../App/infrastructure/service/nand_flash.c:186:11:NandFlash_Erase	24	static
+../App/infrastructure/service/nand_flash.c:200:11:NandFlash_CheckBadBlock	32	static

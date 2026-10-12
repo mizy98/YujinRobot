@@ -1,0 +1,10 @@
+../App/infrastructure/implement/config_storage_impl.c:35:15:_findLastConfig	2104	static
+../App/infrastructure/implement/config_storage_impl.c:91:15:_findLastEmptySpace	1064	static
+../App/infrastructure/implement/config_storage_impl.c:124:15:_findOldestBlock	1088	static
+../App/infrastructure/implement/config_storage_impl.c:188:15:_garbageCollect	24	static
+../App/infrastructure/implement/config_storage_impl.c:210:11:ConfigStorage_Initialize	16	static
+../App/infrastructure/implement/config_storage_impl.c:227:11:ConfigStorage_Deinitialize	4	static
+../App/infrastructure/implement/config_storage_impl.c:229:6:ConfigStorage_GetLastErrorInfo	16	static
+../App/infrastructure/implement/config_storage_impl.c:235:11:ConfigStorage_Load	1184	static
+../App/infrastructure/implement/config_storage_impl.c:252:11:ConfigStorage_Save	2088	static
+../App/infrastructure/implement/config_storage_impl.c:360:11:ConfigStorage_EraseAll	16	static

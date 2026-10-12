@@ -1,0 +1,9 @@
+../App/infrastructure/service/i2c_port.c:14:13:_onError	1
+../App/infrastructure/service/i2c_port.c:16:13:_delayCycles	2
+../App/infrastructure/service/i2c_port.c:22:13:_recoverRtcBdiI2cBus	4
+../App/infrastructure/service/i2c_port.c:64:11:I2cPort_Initialize	8
+../App/infrastructure/service/i2c_port.c:100:11:I2cPort_Deinitialize	7
+../App/infrastructure/service/i2c_port.c:133:6:I2cPort_GetLastErrorInfo	2
+../App/infrastructure/service/i2c_port.c:139:6:I2cPort_IsInitialized	1
+../App/infrastructure/service/i2c_port.c:141:5:I2cPort_Write	4
+../App/infrastructure/service/i2c_port.c:160:5:I2cPort_Read	4

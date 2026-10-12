@@ -1,0 +1,2 @@
+../App/lib/drv_lp5018/drv_lp5018_protocol.c:3:5:DrvLp5018_WriteRegister	1
+../App/lib/drv_lp5018/drv_lp5018_protocol.c:7:5:DrvLp5018_ReadRegister	1

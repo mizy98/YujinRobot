@@ -1,0 +1,11 @@
+../App/domain/interface/data_log_storage.c:3:21:DataLogStorage_Initialize	24	static
+../App/domain/interface/data_log_storage.c:11:21:DataLogStorage_Deinitialize	4	static
+../App/domain/interface/data_log_storage.c:13:16:DataLogStorage_GetLastErrorInfo	152	static
+../App/domain/interface/data_log_storage.c:19:21:DataLogStorage_GetInfo	16	static
+../App/domain/interface/data_log_storage.c:24:21:DataLogStorage_GetCurrentEntry	16	static
+../App/domain/interface/data_log_storage.c:29:21:DataLogStorage_GetClosedEntries	24	static
+../App/domain/interface/data_log_storage.c:39:21:DataLogStorage_FindClosedEntryByStartAddress	16	static
+../App/domain/interface/data_log_storage.c:47:21:DataLogStorage_Record	16	static
+../App/domain/interface/data_log_storage.c:53:21:DataLogStorage_EraseAllRecords	4	static
+../App/domain/interface/data_log_storage.c:55:21:DataLogStorage_StartReadStream	16	static
+../App/domain/interface/data_log_storage.c:60:21:DataLogStorage_ReadRawData	24	static

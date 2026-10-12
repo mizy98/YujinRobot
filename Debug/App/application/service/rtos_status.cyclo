@@ -1,0 +1,3 @@
+../App/application/service/rtos_status.c:18:6:_calculateStackUsage	4
+../App/application/service/rtos_status.c:32:6:_checkTaskState	2
+../App/application/service/rtos_status.c:40:6:RtosStatus_Process	3

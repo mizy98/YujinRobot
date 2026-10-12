@@ -1,0 +1,4 @@
+../App/domain/interface/error_log_storage.c:3:21:ErrorLogStorage_Initialize	4	static
+../App/domain/interface/error_log_storage.c:5:21:ErrorLogStorage_Deinitialize	4	static
+../App/domain/interface/error_log_storage.c:7:16:ErrorLogStorage_GetLastErrorInfo	16	static
+../App/domain/interface/error_log_storage.c:13:21:ErrorLogStorage_Record	16	static

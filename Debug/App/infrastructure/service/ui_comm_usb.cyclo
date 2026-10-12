@@ -1,0 +1,10 @@
+../App/infrastructure/service/ui_comm_usb.c:17:11:UiCommUsb_Initialize	5
+../App/infrastructure/service/ui_comm_usb.c:43:11:UiCommUsb_Deinitialize	1
+../App/infrastructure/service/ui_comm_usb.c:45:6:UiCommUsb_GetLastErrorInfo	2
+../App/infrastructure/service/ui_comm_usb.c:51:6:UiCommUsb_Process	3
+../App/infrastructure/service/ui_comm_usb.c:66:11:UiCommUsb_SendData	5
+../App/infrastructure/service/ui_comm_usb.c:104:6:tud_mount_cb	2
+../App/infrastructure/service/ui_comm_usb.c:113:6:tud_umount_cb	2
+../App/infrastructure/service/ui_comm_usb.c:122:6:tud_suspend_cb	2
+../App/infrastructure/service/ui_comm_usb.c:132:6:tud_resume_cb	2
+../App/infrastructure/service/ui_comm_usb.c:141:6:tud_cdc_line_state_cb	2

@@ -1,0 +1,4 @@
+../App/domain/service/indicator.c:33:13:_processSoc	16
+../App/domain/service/indicator.c:170:13:_processState	9
+../App/domain/service/indicator.c:239:6:Indicator_Initialize	1
+../App/domain/service/indicator.c:248:6:Indicator_Process	1

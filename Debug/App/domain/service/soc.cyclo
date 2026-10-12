@@ -1,0 +1,13 @@
+../App/domain/service/../model/ll/bms_cell_model.h:15:21:BmsCellModel_GetCapacity	5
+../App/domain/service/soc.c:84:13:_isFullCharge	2
+../App/domain/service/soc.c:130:13:_calibrateCapacity	6
+../App/domain/service/soc.c:158:13:_calibrateOcv	8
+../App/domain/service/soc.c:289:6:_track_slow	6
+../App/domain/service/soc.c:317:13:_calculateCycle	6
+../App/domain/service/soc.c:346:11:Soc_Initialize	6
+../App/domain/service/soc.c:399:11:Soc_Calculate	44
+../App/domain/service/soc.c:613:6:Soc_GetLastErrorInfo	2
+../App/domain/service/soc.c:619:7:Soc_GetCycle	1
+../App/domain/service/soc.c:621:7:Soc_GetSoh	1
+../App/domain/service/soc.c:625:10:Soc_GetChargeRemainingTime	1
+../App/domain/service/soc.c:627:10:Soc_GetDischargeRemainingTime	1

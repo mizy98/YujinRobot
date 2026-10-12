@@ -1,0 +1,8 @@
+../App/infrastructure/implement/retention_storage_impl.c:15:11:RetentionStorage_Initialize	8	static
+../App/infrastructure/implement/retention_storage_impl.c:26:11:RetentionStorage_Deinitialize	8	static
+../App/infrastructure/implement/retention_storage_impl.c:37:6:RetentionStorage_GetLastErrorInfo	16	static
+../App/infrastructure/implement/retention_storage_impl.c:43:6:RetentionStorage_IsFormatOccurred	8	static
+../App/infrastructure/implement/retention_storage_impl.c:45:11:RetentionStorage_GetInfo	16	static
+../App/infrastructure/implement/retention_storage_impl.c:54:11:RetentionStorage_Save	24	static
+../App/infrastructure/implement/retention_storage_impl.c:67:11:RetentionStorage_Load	24	static
+../App/infrastructure/implement/retention_storage_impl.c:80:11:RetentionStorage_Erase	24	static

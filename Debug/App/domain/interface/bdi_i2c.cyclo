@@ -1,0 +1,5 @@
+../App/domain/interface/bdi_i2c.c:3:21:BdiI2c_Initialize	1
+../App/domain/interface/bdi_i2c.c:7:21:BdiI2c_Deinitialize	1
+../App/domain/interface/bdi_i2c.c:9:16:BdiI2c_GetLastErrorInfo	2
+../App/domain/interface/bdi_i2c.c:15:21:BdiI2c_Update	1
+../App/domain/interface/bdi_i2c.c:17:16:BdiI2c_Test	1

@@ -1,0 +1,8 @@
+../App/domain/service/soc_lfp.c:160:14:_lookupSocFromOcv	40	static
+../App/domain/service/soc_lfp.c:190:7:_lookupSoc	32	static
+../App/domain/service/soc_lfp.c:220:7:_lookupCapacityRatio	32	static
+../App/domain/service/soc_lfp.c:253:7:SocLfp_CalculateSoc	24	static
+../App/domain/service/soc_lfp.c:264:7:SocLfp_CalculateCapacityRatioByTemperature	24	static
+../App/domain/service/soc_lfp.c:275:7:SocLfp_CalculateCapacityByCycle	16	static
+../App/domain/service/soc_lfp.c:281:6:SocLfp_IsCalibrationRegion	16	static
+../App/domain/service/soc_lfp.c:290:6:SocLfp_IsFullChargeRegion	16	static

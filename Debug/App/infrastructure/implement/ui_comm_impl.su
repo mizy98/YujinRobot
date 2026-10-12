@@ -1,0 +1,8 @@
+../App/infrastructure/implement/ui_comm_impl.c:15:13:_onUsbMountStateChanged	16	static
+../App/infrastructure/implement/ui_comm_impl.c:17:13:_onUsbDataReceived	16	static
+../App/infrastructure/implement/ui_comm_impl.c:23:13:_onUartDataReceived	16	static
+../App/infrastructure/implement/ui_comm_impl.c:33:11:UiComm_Initialize	304	static
+../App/infrastructure/implement/ui_comm_impl.c:68:11:UiComm_Deinitialize	4	static
+../App/infrastructure/implement/ui_comm_impl.c:70:6:UiComm_GetLastErrorInfo	16	static
+../App/infrastructure/implement/ui_comm_impl.c:76:6:UiComm_Process	8	static
+../App/infrastructure/implement/ui_comm_impl.c:90:11:UiComm_SendData	152	static

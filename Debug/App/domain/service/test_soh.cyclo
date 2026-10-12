@@ -1,0 +1,8 @@
+../App/domain/service/test_soh.c:8:14:_clampf	3
+../App/domain/service/test_soh.c:18:14:_lerp	2
+../App/domain/service/test_soh.c:26:7:TestSohNcm_FromCapacity	2
+../App/domain/service/test_soh.c:34:7:TestSohNcm_FromCycleLinear	3
+../App/domain/service/test_soh.c:50:7:TestSohNcm_FromResistance	3
+../App/domain/service/test_soh.c:59:7:TestSohNcm_FromCycleTableCustom	8
+../App/domain/service/test_soh.c:88:7:TestSohNcm_FromCycleTable	1
+../App/domain/service/test_soh.c:94:7:TestSohNcm_Calculate	15

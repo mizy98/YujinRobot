@@ -1,0 +1,6 @@
+../App/infrastructure/implement/system_time_impl.c:13:11:SystemTime_Initialize	8	static
+../App/infrastructure/implement/system_time_impl.c:24:11:SystemTime_Deinitialize	8	static
+../App/infrastructure/implement/system_time_impl.c:35:6:SystemTime_GetLastErrorInfo	16	static
+../App/infrastructure/implement/system_time_impl.c:41:11:SystemTime_SetTimestamp	16	static
+../App/infrastructure/implement/system_time_impl.c:50:11:SystemTime_GetTimestamp	16	static
+../App/infrastructure/implement/system_time_impl.c:59:10:SystemTime_GetTick	16	static

@@ -1,0 +1,12 @@
+../App/domain/service/ui_protocol.c:88:24:_rxBufferCount	1
+../App/domain/service/ui_protocol.c:92:24:_rxBufferSpace	1
+../App/domain/service/ui_protocol.c:98:20:_resetParseState	1
+../App/domain/service/ui_protocol.c:104:13:_onDataReceived	5
+../App/domain/service/ui_protocol.c:127:18:_sendPacket	4
+../App/domain/service/ui_protocol.c:168:11:UiProtocol_Initialize	3
+../App/domain/service/ui_protocol.c:197:11:UiProtocol_Deinitialize	2
+../App/domain/service/ui_protocol.c:206:6:UiProtocol_GetLastErrorInfo	2
+../App/domain/service/ui_protocol.c:212:6:UiProtocol_Process	1
+../App/domain/service/ui_protocol.c:217:6:UiProtocol_Parse	26
+../App/domain/service/ui_protocol.c:340:11:UiProtocol_SendDataWithSequence	1
+../App/domain/service/ui_protocol.c:345:11:UiProtocol_SendData	1

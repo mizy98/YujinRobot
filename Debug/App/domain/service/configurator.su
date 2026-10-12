@@ -1,0 +1,11 @@
+../App/domain/service/../model/bms_config.h:197:20:_BmsConfig_SetCommon	24	static
+../App/domain/service/../model/bms_config.h:295:20:_BmsConfig_SetNcm	16	static
+../App/domain/service/../model/bms_config.h:764:25:BmsConfig_CreateDefault	1040	static
+../App/domain/service/configurator.c:14:11:Configurator_Initialize	2064	static
+../App/domain/service/configurator.c:43:11:Configurator_Deinitialize	8	static
+../App/domain/service/configurator.c:50:6:Configurator_GetLastErrorInfo	16	static
+../App/domain/service/configurator.c:56:11:Configurator_Set	16	static
+../App/domain/service/configurator.c:66:6:Configurator_Get	16	static
+../App/domain/service/configurator.c:72:11:Configurator_Save	16	static
+../App/domain/service/configurator.c:87:11:Configurator_Load	16	static
+../App/domain/service/configurator.c:106:11:Configurator_EraseAll	1040	static

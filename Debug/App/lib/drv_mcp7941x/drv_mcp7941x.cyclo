@@ -1,0 +1,11 @@
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:5:5:DrvMcp7941x_Initialize	16
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:63:5:DrvMcp7941x_DeInitialize	1
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:65:5:DrvMcp7941x_SetTime	3
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:104:5:DrvMcp7941x_GetTime	2
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:130:5:DrvMcp7941x_WriteSram	3
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:142:5:DrvMcp7941x_ReadSram	3
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:154:5:DrvMcp7941x_WriteEeprom	4
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:170:5:DrvMcp7941x_ReadEeprom	3
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:184:5:DrvMcp7941x_GetStatus	2
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:197:6:DrvMcp7941x_GetSramInfo	2
+../App/lib/drv_mcp7941x/drv_mcp7941x.c:204:6:DrvMcp7941x_GetEepromInfo	2

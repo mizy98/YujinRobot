@@ -1,0 +1,4 @@
+../App/domain/interface/current.c:3:21:Current_Initialize	16	static
+../App/domain/interface/current.c:8:21:Current_Deinitialize	4	static
+../App/domain/interface/current.c:10:16:Current_GetLastErrorInfo	16	static
+../App/domain/interface/current.c:16:21:Current_GetData	16	static

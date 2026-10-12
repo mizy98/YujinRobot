@@ -1,0 +1,13 @@
+../App/domain/service/threshold_control.c:23:13:ThresholdControl_IsValidHandle	24	static
+../App/domain/service/threshold_control.c:41:13:ThresholdControl_IsValidConfig	16	static
+../App/domain/service/threshold_control.c:53:13:_isDurationExpired	24	static
+../App/domain/service/threshold_control.c:67:13:_resetDuration	16	static
+../App/domain/service/threshold_control.c:72:5:ThresholdControl_Initialize	24	static
+../App/domain/service/threshold_control.c:91:7:ThresholdControl_Create	40	static
+../App/domain/service/threshold_control.c:122:6:ThresholdControl_Destroy	24	static
+../App/domain/service/threshold_control.c:146:6:ThresholdControl_CheckValue	32	static
+../App/domain/service/threshold_control.c:218:6:ThresholdControl_IsActive	24	static
+../App/domain/service/threshold_control.c:227:5:ThresholdControl_UpdateConfig	32	static
+../App/domain/service/threshold_control.c:243:6:ThresholdControl_ResetDuration	24	static
+../App/domain/service/threshold_control.c:254:6:ThresholdControl_Reset	24	static
+../App/domain/service/threshold_control.c:266:6:ThresholdControl_IsTriggered	24	static

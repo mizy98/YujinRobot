@@ -1,0 +1,5 @@
+../App/domain/interface/bdi_i2c.c:3:21:BdiI2c_Initialize	16	static
+../App/domain/interface/bdi_i2c.c:7:21:BdiI2c_Deinitialize	4	static
+../App/domain/interface/bdi_i2c.c:9:16:BdiI2c_GetLastErrorInfo	16	static
+../App/domain/interface/bdi_i2c.c:15:21:BdiI2c_Update	16	static
+../App/domain/interface/bdi_i2c.c:17:16:BdiI2c_Test	16	static

@@ -1,0 +1,6 @@
+../App/domain/service/bdi.c:16:11:Bdi_Initialize	152	static
+../App/domain/service/bdi.c:47:11:Bdi_Deinitialize	8	static
+../App/domain/service/bdi.c:69:6:Bdi_GetLastErrorInfo	16	static
+../App/domain/service/bdi.c:75:6:Bdi_SetType	16	static
+../App/domain/service/bdi.c:77:11:Bdi_Process	152	static
+../App/domain/service/bdi.c:127:6:Bdi_Test	16	static

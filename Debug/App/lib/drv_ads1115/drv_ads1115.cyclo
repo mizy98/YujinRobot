@@ -1,0 +1,8 @@
+../App/lib/drv_ads1115/drv_ads1115.c:14:5:DrvAds1115_Initialize	7
+../App/lib/drv_ads1115/drv_ads1115.c:39:5:DrvAds1115_Reset	2
+../App/lib/drv_ads1115/drv_ads1115.c:53:6:DrvAds1115_IsBusy	2
+../App/lib/drv_ads1115/drv_ads1115.c:65:5:DrvAds1115_WaitUntilReady	3
+../App/lib/drv_ads1115/drv_ads1115.c:78:5:DrvAds1115_StartConversion	5
+../App/lib/drv_ads1115/drv_ads1115.c:104:5:DrvAds1115_StopConversion	2
+../App/lib/drv_ads1115/drv_ads1115.c:117:5:DrvAds1115_ReadConversion	3
+../App/lib/drv_ads1115/drv_ads1115.c:134:7:DrvAds1115_ConvertToVoltage	7

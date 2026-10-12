@@ -1,0 +1,8 @@
+../App/domain/interface/event_log_storage.c:5:21:EventLogStorage_Initialize	16	static
+../App/domain/interface/event_log_storage.c:10:21:EventLogStorage_Deinitialize	4	static
+../App/domain/interface/event_log_storage.c:12:16:EventLogStorage_GetLastErrorInfo	152	static
+../App/domain/interface/event_log_storage.c:18:21:EventLogStorage_GetInfo	16	static
+../App/domain/interface/event_log_storage.c:23:21:EventLogStorage_GetEntries	24	static
+../App/domain/interface/event_log_storage.c:31:21:EventLogStorage_Record	24	static
+../App/domain/interface/event_log_storage.c:46:21:EventLogStorage_EraseAllRecords	4	static
+../App/domain/interface/event_log_storage.c:48:21:EventLogStorage_ReadRawData	24	static

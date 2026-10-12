@@ -1,0 +1,12 @@
+../App/domain/service/nvs.c:19:11:Nvs_Initialize	8	static
+../App/domain/service/nvs.c:33:11:Nvs_Deinitialize	8	static
+../App/domain/service/nvs.c:42:6:Nvs_GetLastErrorInfo	16	static
+../App/domain/service/nvs.c:48:6:Nvs_IsFormatOccurred	8	static
+../App/domain/service/nvs.c:50:11:Nvs_SaveSoc	24	static
+../App/domain/service/nvs.c:73:11:Nvs_LoadSoc	24	static
+../App/domain/service/nvs.c:92:11:Nvs_SaveCycle	16	static
+../App/domain/service/nvs.c:101:11:Nvs_LoadCycle	16	static
+../App/domain/service/nvs.c:110:11:Nvs_SaveSoh	16	static
+../App/domain/service/nvs.c:119:11:Nvs_LoadSoh	16	static
+../App/domain/service/nvs.c:128:11:Nvs_SavePfState	16	static
+../App/domain/service/nvs.c:138:11:Nvs_LoadPfState	16	static

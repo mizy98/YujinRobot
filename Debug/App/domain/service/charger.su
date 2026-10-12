@@ -1,0 +1,4 @@
+../App/domain/service/charger.c:11:11:Charger_Initialize	32	static
+../App/domain/service/charger.c:25:11:Charger_Deinitialize	8	static
+../App/domain/service/charger.c:34:6:Charger_GetLastErrorInfo	16	static
+../App/domain/service/charger.c:40:11:Charger_Process	16	static

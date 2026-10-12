@@ -1,0 +1,4 @@
+../App/domain/interface/system.c:3:16:System_Reset	4	static
+../App/domain/interface/system.c:5:20:System_GetUniqueId	16	static
+../App/domain/interface/system.c:10:16:System_GetResetReason	16	static
+../App/domain/interface/system.c:15:16:System_ClearResetReason	4	static

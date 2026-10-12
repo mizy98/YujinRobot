@@ -1,0 +1,10 @@
+../App/infrastructure/implement/timer_impl.c:19:14:_getEmptyTimerHandle	16	static
+../App/infrastructure/implement/timer_impl.c:28:6:_isValidTimerHandle	24	static
+../App/infrastructure/implement/timer_impl.c:37:11:Timer_Initialize	4	static
+../App/infrastructure/implement/timer_impl.c:39:11:Timer_Deinitialize	4	static
+../App/infrastructure/implement/timer_impl.c:41:6:Timer_GetLastErrorInfo	16	static
+../App/infrastructure/implement/timer_impl.c:47:7:Timer_Create	168	static
+../App/infrastructure/implement/timer_impl.c:81:11:Timer_Dispose	160	static
+../App/infrastructure/implement/timer_impl.c:103:11:Timer_Start	168	static
+../App/infrastructure/implement/timer_impl.c:125:11:Timer_Stop	160	static
+../App/infrastructure/implement/timer_impl.c:144:6:Timer_IsRunning	160	static

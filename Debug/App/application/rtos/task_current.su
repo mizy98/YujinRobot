@@ -1,0 +1,6 @@
+../App/application/rtos/task_current.c:16:13:onBmsStateChanged	16	static
+../App/application/rtos/task_current.c:27:13:_runner	352	static
+../App/application/rtos/task_current.c:199:13:_wrapper	16	static
+../App/application/rtos/task_current.c:205:11:TaskCurrent_Initialize	168	static
+../App/application/rtos/task_current.c:227:11:TaskCurrent_Deinitialize	144	static
+../App/application/rtos/task_current.c:236:6:TaskCurrent_GetLastErrorInfo	16	static

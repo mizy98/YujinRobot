@@ -1,0 +1,13 @@
+../App/application/rtos/task_protection.c:17:13:_onProtectionOccurred	32	static
+../App/application/rtos/task_protection.c:31:13:_onProtectionReleased	32	static
+../App/application/rtos/task_protection.c:49:13:_onPermanentFailure	32	static
+../App/application/rtos/task_protection.c:69:13:_onPermanentFailureReleased	24	static
+../App/application/rtos/task_protection.c:93:13:_onContactorStateChanged	16	static
+../App/application/rtos/task_protection.c:108:13:_onContactorError	24	static
+../App/application/rtos/task_protection.c:128:13:_onRescueActivated	8	static
+../App/application/rtos/task_protection.c:140:13:_onRescueDeactivated	8	static
+../App/application/rtos/task_protection.c:149:13:_runner	272	static
+../App/application/rtos/task_protection.c:282:13:_wrapper	16	static
+../App/application/rtos/task_protection.c:288:11:TaskProtection_Initialize	168	static
+../App/application/rtos/task_protection.c:310:11:TaskProtection_Deinitialize	144	static
+../App/application/rtos/task_protection.c:319:6:TaskProtection_GetLastErrorInfo	16	static

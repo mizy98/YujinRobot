@@ -1,0 +1,8 @@
+../App/domain/interface/timer.c:3:21:Timer_Initialize	4	static
+../App/domain/interface/timer.c:5:21:Timer_Deinitialize	4	static
+../App/domain/interface/timer.c:7:16:Timer_GetLastErrorInfo	16	static
+../App/domain/interface/timer.c:13:17:Timer_Create	24	static
+../App/domain/interface/timer.c:20:21:Timer_Dispose	16	static
+../App/domain/interface/timer.c:25:21:Timer_Start	24	static
+../App/domain/interface/timer.c:33:21:Timer_Stop	16	static
+../App/domain/interface/timer.c:38:16:Timer_IsRunning	16	static

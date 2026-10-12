@@ -1,0 +1,6 @@
+../App/domain/interface/config_storage.c:3:21:ConfigStorage_Initialize	4	static
+../App/domain/interface/config_storage.c:5:21:ConfigStorage_Deinitialize	4	static
+../App/domain/interface/config_storage.c:7:16:ConfigStorage_GetLastErrorInfo	152	static
+../App/domain/interface/config_storage.c:13:21:ConfigStorage_Load	16	static
+../App/domain/interface/config_storage.c:18:21:ConfigStorage_Save	16	static
+../App/domain/interface/config_storage.c:23:21:ConfigStorage_EraseAll	4	static

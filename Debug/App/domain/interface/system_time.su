@@ -1,0 +1,6 @@
+../App/domain/interface/system_time.c:3:21:SystemTime_Initialize	4	static
+../App/domain/interface/system_time.c:5:21:SystemTime_Deinitialize	4	static
+../App/domain/interface/system_time.c:7:16:SystemTime_GetLastErrorInfo	16	static
+../App/domain/interface/system_time.c:13:21:SystemTime_SetTimestamp	16	static
+../App/domain/interface/system_time.c:15:21:SystemTime_GetTimestamp	16	static
+../App/domain/interface/system_time.c:20:20:SystemTime_GetTick	4	static

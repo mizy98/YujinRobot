@@ -1,0 +1,10 @@
+../App/infrastructure/service/ui_comm_uart.c:29:13:_onDataTransmitComplete	1
+../App/infrastructure/service/ui_comm_uart.c:34:13:_onDataReceived	1
+../App/infrastructure/service/ui_comm_uart.c:40:13:_onError	1
+../App/infrastructure/service/ui_comm_uart.c:45:18:_resetUart	3
+../App/infrastructure/service/ui_comm_uart.c:67:17:_calculateTxTimeout	2
+../App/infrastructure/service/ui_comm_uart.c:77:11:UiCommUart_Initialize	7
+../App/infrastructure/service/ui_comm_uart.c:106:11:UiCommUart_Deinitialize	1
+../App/infrastructure/service/ui_comm_uart.c:108:6:UiCommUart_GetLastErrorInfo	2
+../App/infrastructure/service/ui_comm_uart.c:114:6:UiCommUart_Process	8
+../App/infrastructure/service/ui_comm_uart.c:152:11:UiCommUart_SendData	4

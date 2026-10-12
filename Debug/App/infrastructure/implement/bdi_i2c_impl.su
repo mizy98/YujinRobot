@@ -1,0 +1,11 @@
+../App/infrastructure/implement/bdi_i2c_impl.c:57:12:_write	16	static
+../App/infrastructure/implement/bdi_i2c_impl.c:62:12:_read	16	static
+../App/infrastructure/implement/bdi_i2c_impl.c:67:12:_setSocLed	24	static
+../App/infrastructure/implement/bdi_i2c_impl.c:104:13:_onBdiDisplayEnabled	8	static
+../App/infrastructure/implement/bdi_i2c_impl.c:112:13:_onBdiDisplayTimeout	16	static
+../App/infrastructure/implement/bdi_i2c_impl.c:120:12:_setStateLed	24	static
+../App/infrastructure/implement/bdi_i2c_impl.c:188:11:BdiI2c_Initialize	168	static
+../App/infrastructure/implement/bdi_i2c_impl.c:222:11:BdiI2c_Deinitialize	8	static
+../App/infrastructure/implement/bdi_i2c_impl.c:238:6:BdiI2c_GetLastErrorInfo	16	static
+../App/infrastructure/implement/bdi_i2c_impl.c:244:11:BdiI2c_Update	16	static
+../App/infrastructure/implement/bdi_i2c_impl.c:258:6:BdiI2c_Test	24	static

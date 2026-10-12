@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../App/infrastructure/implement/system_impl.c:9:6:System_Reset	0
+../App/infrastructure/implement/system_impl.c:11:10:System_GetUniqueId	5
+../App/infrastructure/implement/system_impl.c:24:6:System_GetResetReason	8
+../App/infrastructure/implement/system_impl.c:54:6:System_ClearResetReason	1

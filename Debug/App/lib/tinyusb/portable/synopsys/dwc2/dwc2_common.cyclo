@@ -1,0 +1,10 @@
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_stm32.h:191:20:dwc2_phy_init	3
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_stm32.h:268:20:dwc2_phy_deinit	2
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_stm32.h:284:20:dwc2_phy_update	11
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:37:13:reset_core	6
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:61:13:phy_fs_init	1
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:93:13:phy_hs_init	5
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:160:13:check_dwc2	5
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:186:6:dwc2_core_is_highspeed_phy	4
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:199:6:dwc2_core_init	8
+../App/lib/tinyusb/portable/synopsys/dwc2/dwc2_common.c:246:6:dwc2_core_deinit	3

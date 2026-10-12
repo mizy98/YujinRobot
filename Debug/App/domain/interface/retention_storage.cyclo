@@ -1,0 +1,8 @@
+../App/domain/interface/retention_storage.c:3:21:RetentionStorage_Initialize	1
+../App/domain/interface/retention_storage.c:5:21:RetentionStorage_Deinitialize	1
+../App/domain/interface/retention_storage.c:7:16:RetentionStorage_GetLastErrorInfo	2
+../App/domain/interface/retention_storage.c:13:16:RetentionStorage_IsFormatOccurred	1
+../App/domain/interface/retention_storage.c:15:21:RetentionStorage_Save	1
+../App/domain/interface/retention_storage.c:19:21:RetentionStorage_Load	1
+../App/domain/interface/retention_storage.c:23:21:RetentionStorage_Erase	1
+../App/domain/interface/retention_storage.c:25:16:RetentionStorage_IsEmpty	1

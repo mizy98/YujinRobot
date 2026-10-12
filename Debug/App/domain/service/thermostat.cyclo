@@ -1,0 +1,7 @@
+../App/domain/service/thermostat.c:23:13:_processFan	13
+../App/domain/service/thermostat.c:76:13:_processHeater	13
+../App/domain/service/thermostat.c:128:11:Thermostat_Initialize	3
+../App/domain/service/thermostat.c:150:11:Thermostat_Deinitialize	1
+../App/domain/service/thermostat.c:152:11:Thermostat_SetConfig	2
+../App/domain/service/thermostat.c:172:6:Thermostat_GetLastErrorInfo	2
+../App/domain/service/thermostat.c:178:6:Thermostat_Process	4

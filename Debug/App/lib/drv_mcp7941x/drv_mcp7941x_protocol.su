@@ -1,0 +1,10 @@
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:8:9:DrvMcp7941x_ToBcd	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:14:9:DrvMcp7941x_FromBcd	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:20:5:DrvMcp7941x_Write	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:24:5:DrvMcp7941x_Read	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:28:5:DrvMcp7941x_BurstWrite	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:32:5:DrvMcp7941x_BurstRead	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:36:5:DrvMcp7941x_EepromWrite	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:40:5:DrvMcp7941x_EepromRead	24	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:44:5:DrvMcp7941x_Start	16	static
+../App/lib/drv_mcp7941x/drv_mcp7941x_protocol.c:75:5:DrvMcp7941x_Stop	16	static

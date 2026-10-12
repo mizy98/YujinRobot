@@ -1,0 +1,3 @@
+../App/domain/service/soc_ncm.c:17:7:SocNcm_CalculateSoc	9
+../App/domain/service/soc_ncm.c:53:7:SocNcm_CalculateCapacityRatioByTemperature	1
+../App/domain/service/soc_ncm.c:59:7:SocNcm_CalculateCapacityByCycle	1

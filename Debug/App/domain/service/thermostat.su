@@ -1,0 +1,7 @@
+../App/domain/service/thermostat.c:23:13:_processFan	16	static
+../App/domain/service/thermostat.c:76:13:_processHeater	16	static
+../App/domain/service/thermostat.c:128:11:Thermostat_Initialize	160	static
+../App/domain/service/thermostat.c:150:11:Thermostat_Deinitialize	4	static
+../App/domain/service/thermostat.c:152:11:Thermostat_SetConfig	160	static
+../App/domain/service/thermostat.c:172:6:Thermostat_GetLastErrorInfo	16	static
+../App/domain/service/thermostat.c:178:6:Thermostat_Process	160	static

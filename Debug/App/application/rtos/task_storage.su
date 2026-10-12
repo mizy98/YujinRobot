@@ -1,0 +1,9 @@
+../App/application/rtos/task_storage.c:19:13:_onRecordStored	16	static
+../App/application/rtos/task_storage.c:21:13:_onRecordLoaded	24	static
+../App/application/rtos/task_storage.c:27:13:_onRecordLoadFinished	4	static
+../App/application/rtos/task_storage.c:29:13:_onEventRecorded	16	static
+../App/application/rtos/task_storage.c:42:13:_runner	2208	static
+../App/application/rtos/task_storage.c:277:13:_wrapper	16	static
+../App/application/rtos/task_storage.c:283:11:TaskStorage_Initialize	168	static
+../App/application/rtos/task_storage.c:304:11:TaskStorage_Deinitialize	144	static
+../App/application/rtos/task_storage.c:313:6:TaskStorage_GetLastErrorInfo	16	static

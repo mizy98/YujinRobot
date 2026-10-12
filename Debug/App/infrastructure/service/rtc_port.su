@@ -1,0 +1,14 @@
+../App/infrastructure/service/rtc_port.c:26:17:_toUnixTimestamp	192	static
+../App/infrastructure/service/rtc_port.c:54:13:_toPosixTimeInfo	264	static
+../App/infrastructure/service/rtc_port.c:112:12:_write	16	static
+../App/infrastructure/service/rtc_port.c:117:12:_read	16	static
+../App/infrastructure/service/rtc_port.c:122:11:RtcPort_Initialize	304	static
+../App/infrastructure/service/rtc_port.c:157:11:RtcPort_Deinitialize	152	static
+../App/infrastructure/service/rtc_port.c:176:6:RtcPort_IsInitialized	4	static
+../App/infrastructure/service/rtc_port.c:178:6:RtcPort_GetLastErrorInfo	16	static
+../App/infrastructure/service/rtc_port.c:184:11:RtcPort_SetTimestamp	200	static
+../App/infrastructure/service/rtc_port.c:204:11:RtcPort_GetTimestamp	200	static
+../App/infrastructure/service/rtc_port.c:224:11:RtcPort_ReadBackupRegister	152	static
+../App/infrastructure/service/rtc_port.c:237:11:RtcPort_WriteBackupRegister	152	static
+../App/infrastructure/service/rtc_port.c:250:6:RtcPort_GetBackupRegisterInfo	16	static
+../App/infrastructure/service/rtc_port.c:259:6:RtcPort_IsBackupFormatOccurred	4	static

@@ -1,0 +1,4 @@
+../App/domain/interface/bdi_can.c:3:21:BdiCan_Initialize	16	static
+../App/domain/interface/bdi_can.c:7:21:BdiCan_Deinitialize	4	static
+../App/domain/interface/bdi_can.c:9:16:BdiCan_GetLastErrorInfo	16	static
+../App/domain/interface/bdi_can.c:15:21:BdiCan_Update	16	static

@@ -1,0 +1,46 @@
+#ifndef ADS1115_DEFINE_H
+#define ADS1115_DEFINE_H
+
+#include <stdbool.h>
+#include <stdint.h>
+#include <string.h>
+
+typedef enum {
+    DRV_ADS1115_CHANNEL_MODE_DIFFERENTIAL_CHANNEL0_1,  // Positive: A0, Negative: A1
+    DRV_ADS1115_CHANNEL_MODE_DIFFERENTIAL_CHANNEL0_3,  // Positive: A0, Negative: A3
+    DRV_ADS1115_CHANNEL_MODE_DIFFERENTIAL_CHANNEL1_3,  // Positive: A1, Negative: A3
+    DRV_ADS1115_CHANNEL_MODE_DIFFERENTIAL_CHANNEL2_3,  // Positive: A2, Negative: A3
+    DRV_ADS1115_CHANNEL_MODE_SINGLE_ENDED_CHANNEL0,
+    DRV_ADS1115_CHANNEL_MODE_SINGLE_ENDED_CHANNEL1,
+    DRV_ADS1115_CHANNEL_MODE_SINGLE_ENDED_CHANNEL2,
+    DRV_ADS1115_CHANNEL_MODE_SINGLE_ENDED_CHANNEL3
+} DrvAds1115ChannelMode;
+
+typedef enum {
+    DRV_ADS1115_DATA_SAMPLE_RATE_8_SAMPLES_PER_SECOND,    // 8 Hz,  125 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_16_SAMPLES_PER_SECOND,   // 16 Hz,  62.5 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_32_SAMPLES_PER_SECOND,   // 32 Hz,  31.25 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_64_SAMPLES_PER_SECOND,   // 64 Hz,  15.625 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_128_SAMPLES_PER_SECOND,  // 128 Hz,  7.8125 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_250_SAMPLES_PER_SECOND,  // 250 Hz,  4 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_475_SAMPLES_PER_SECOND,  // 475 Hz,  2.1 ms
+    DRV_ADS1115_DATA_SAMPLE_RATE_860_SAMPLES_PER_SECOND,  // 860 Hz,  1.16 ms
+} DrvAds1115DataSampleRate;
+
+typedef enum {
+    DRV_ADS1115_GAIN_V6_144,  // x2/3 gain
+    DRV_ADS1115_GAIN_V4_096,  // x1   gain
+    DRV_ADS1115_GAIN_V2_048,  // x2   gain
+    DRV_ADS1115_GAIN_V1_024,  // x4   gain
+    DRV_ADS1115_GAIN_V0_512,  // x8   gain
+    DRV_ADS1115_GAIN_V0_256   // x16  gain
+} DrvAds1115Gain;
+
+
+typedef struct {
+    int (*write)(uint8_t address, uint8_t* data, uint16_t length);
+    int (*read)(uint8_t address, uint8_t* data, uint16_t length);
+    void (*delayMs)(uint32_t ms);
+} DrvAds1115Interface;
+
+#endif

@@ -1,0 +1,5 @@
+../App/application/rtos/task_rtc.c:15:13:_runner	40	static
+../App/application/rtos/task_rtc.c:104:13:_wrapper	16	static
+../App/application/rtos/task_rtc.c:110:11:TaskRtc_Initialize	168	static
+../App/application/rtos/task_rtc.c:132:11:TaskRtc_Deinitialize	144	static
+../App/application/rtos/task_rtc.c:141:6:TaskRtc_GetLastErrorInfo	16	static

@@ -1,0 +1,6 @@
+../App/domain/service/bdi.c:16:11:Bdi_Initialize	7
+../App/domain/service/bdi.c:47:11:Bdi_Deinitialize	6
+../App/domain/service/bdi.c:69:6:Bdi_GetLastErrorInfo	2
+../App/domain/service/bdi.c:75:6:Bdi_SetType	1
+../App/domain/service/bdi.c:77:11:Bdi_Process	12
+../App/domain/service/bdi.c:127:6:Bdi_Test	2

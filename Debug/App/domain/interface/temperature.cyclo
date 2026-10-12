@@ -1,0 +1,8 @@
+../App/domain/interface/temperature.c:3:21:Temperature_Initialize	1
+../App/domain/interface/temperature.c:5:21:Temperature_DeInitialize	1
+../App/domain/interface/temperature.c:7:16:Temperature_GetLastErrorInfo	2
+../App/domain/interface/temperature.c:13:21:Temperature_GetDatas	1
+../App/domain/interface/temperature.c:20:21:Temperature_GetPackData	1
+../App/domain/interface/temperature.c:24:21:Temperature_GetBoardData	1
+../App/domain/interface/temperature.c:28:21:Temperature_GetBalancerData	1
+../App/domain/interface/temperature.c:32:21:Temperature_GetContactorData	1

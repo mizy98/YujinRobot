@@ -1,0 +1,8 @@
+../App/lib/comm_hgp/comm_hgp_serial.c:184:16:_calculateFrameChecksum	2
+../App/lib/comm_hgp/comm_hgp_serial.c:199:16:_calculateChecksum	2
+../App/lib/comm_hgp/comm_hgp_serial.c:209:13:_resetParseState	1
+../App/lib/comm_hgp/comm_hgp_serial.c:215:12:_processCommand	20
+../App/lib/comm_hgp/comm_hgp_serial.c:356:5:CommHgpSerial_Initialize	9
+../App/lib/comm_hgp/comm_hgp_serial.c:375:5:CommHgpSerial_Deinitialize	1
+../App/lib/comm_hgp/comm_hgp_serial.c:377:5:CommHgpSerial_Parse	25
+../App/lib/comm_hgp/comm_hgp_serial.c:507:6:CommHgpSerial_ResetParseState	1

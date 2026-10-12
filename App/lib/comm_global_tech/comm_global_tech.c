@@ -1,0 +1,1 @@
+#include "comm_global_tech.h"

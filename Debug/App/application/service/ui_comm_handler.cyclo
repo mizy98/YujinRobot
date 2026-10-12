@@ -1,0 +1,11 @@
+../App/application/service/ui_comm_handler.c:17:13:_setConfig	3
+../App/application/service/ui_comm_handler.c:31:18:_getDataLogInfo	5
+../App/application/service/ui_comm_handler.c:50:18:_getDataLogRecord	3
+../App/application/service/ui_comm_handler.c:66:13:_getDataLogEntry	8
+../App/application/service/ui_comm_handler.c:100:13:_getEventLogInfo	5
+../App/application/service/ui_comm_handler.c:118:13:_getEventLogEntry	8
+../App/application/service/ui_comm_handler.c:151:18:_getEventLogRecord	3
+../App/application/service/ui_comm_handler.c:167:11:UiCommHandler_Initialize	2
+../App/application/service/ui_comm_handler.c:178:6:UiCommHandler_Deinitialize	1
+../App/application/service/ui_comm_handler.c:180:6:UiCommHandler_GetLastErrorInfo	2
+../App/application/service/ui_comm_handler.c:186:6:UiCommHandler_Process	29

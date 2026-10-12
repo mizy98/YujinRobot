@@ -1,0 +1,5 @@
+../App/lib/drv_ads1115/drv_ads1115_protocol.c:5:6:DrvAds1115_RegisterInterface	1
+../App/lib/drv_ads1115/drv_ads1115_protocol.c:9:5:DrvAds1115_WriteRegister	2
+../App/lib/drv_ads1115/drv_ads1115_protocol.c:21:5:DrvAds1115_ReadRegister	2
+../App/lib/drv_ads1115/drv_ads1115_protocol.c:30:5:DrvAds1115_WriteConfig	1
+../App/lib/drv_ads1115/drv_ads1115_protocol.c:40:5:DrvAds1115_ReadConfig	2

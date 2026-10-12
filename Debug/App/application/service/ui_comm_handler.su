@@ -1,0 +1,11 @@
+../App/application/service/ui_comm_handler.c:17:13:_setConfig	160	static
+../App/application/service/ui_comm_handler.c:31:18:_getDataLogInfo	96	static
+../App/application/service/ui_comm_handler.c:50:18:_getDataLogRecord	24	static
+../App/application/service/ui_comm_handler.c:66:13:_getDataLogEntry	48	static
+../App/application/service/ui_comm_handler.c:100:13:_getEventLogInfo	96	static
+../App/application/service/ui_comm_handler.c:118:13:_getEventLogEntry	72	static
+../App/application/service/ui_comm_handler.c:151:18:_getEventLogRecord	24	static
+../App/application/service/ui_comm_handler.c:167:11:UiCommHandler_Initialize	152	static
+../App/application/service/ui_comm_handler.c:178:6:UiCommHandler_Deinitialize	4	static
+../App/application/service/ui_comm_handler.c:180:6:UiCommHandler_GetLastErrorInfo	16	static
+../App/application/service/ui_comm_handler.c:186:6:UiCommHandler_Process	2104	static

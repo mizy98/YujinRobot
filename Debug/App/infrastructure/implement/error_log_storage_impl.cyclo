@@ -1,0 +1,4 @@
+../App/infrastructure/implement/error_log_storage_impl.c:9:11:ErrorLogStorage_Initialize	1
+../App/infrastructure/implement/error_log_storage_impl.c:11:11:ErrorLogStorage_Deinitialize	1
+../App/infrastructure/implement/error_log_storage_impl.c:13:6:ErrorLogStorage_GetLastErrorInfo	2
+../App/infrastructure/implement/error_log_storage_impl.c:19:11:ErrorLogStorage_Record	1

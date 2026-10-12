@@ -1,0 +1,5 @@
+../App/lib/drv_lp5018/drv_lp5018.c:7:5:DrvLp5018_Initialize	24	static
+../App/lib/drv_lp5018/drv_lp5018.c:49:5:DrvLp5018_Reset	16	static
+../App/lib/drv_lp5018/drv_lp5018.c:58:5:DrvLp5018_SetOutput	24	static
+../App/lib/drv_lp5018/drv_lp5018.c:69:5:DrvLp5018_SetOutputs	56	dynamic
+../App/lib/drv_lp5018/drv_lp5018.c:87:5:DrvLp5018_SetLed	32	static

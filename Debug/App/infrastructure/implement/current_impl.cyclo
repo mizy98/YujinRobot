@@ -1,0 +1,7 @@
+../App/infrastructure/implement/current_impl.c:55:14:_toCurrent	4
+../App/infrastructure/implement/current_impl.c:71:18:_calibrateZeroOffset	2
+../App/infrastructure/implement/current_impl.c:87:18:_processCalibration	11
+../App/infrastructure/implement/current_impl.c:137:11:Current_Initialize	9
+../App/infrastructure/implement/current_impl.c:185:11:Current_Deinitialize	2
+../App/infrastructure/implement/current_impl.c:194:6:Current_GetLastErrorInfo	2
+../App/infrastructure/implement/current_impl.c:200:11:Current_GetData	7

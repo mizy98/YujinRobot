@@ -1,0 +1,5 @@
+../App/lib/comm_hgp/comm_hgp_can.c:20:5:CommHgpCan_Initialize	8
+../App/lib/comm_hgp/comm_hgp_can.c:36:5:CommHgpCan_Deinitialize	1
+../App/lib/comm_hgp/comm_hgp_can.c:38:5:CommHgpCan_Parse	8
+../App/lib/comm_hgp/comm_hgp_can.c:65:6:CommHgpCan_ResetParseState	1
+../App/lib/comm_hgp/comm_hgp_can.c:67:5:CommHgpCan_SendData	5

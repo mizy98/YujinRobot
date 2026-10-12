@@ -1,0 +1,22 @@
+#ifndef STORAGE_COMMON_H
+#define STORAGE_COMMON_H
+
+#include <stdint.h>
+
+typedef enum {
+    STORAGE_RESULT_OK = 0,
+    STORAGE_RESULT_ERROR,
+    STORAGE_RESULT_ERROR_INVALID_ARG,
+    STORAGE_RESULT_ERROR_NOT_FOUND,
+    STORAGE_RESULT_ERROR_STORAGE_FULL,
+    STORAGE_RESULT_ERROR_SEQUENCE_FULL,
+} StorageResult;
+
+enum DataEntryStatus {
+    META_DATA_STATUS_EMPTY = 0xFF,
+    META_DATA_STATUS_OPENED = 0x00,
+    META_DATA_STATUS_CLOSED = 0x01,
+};
+typedef uint8_t DataEntryStatus;
+
+#endif

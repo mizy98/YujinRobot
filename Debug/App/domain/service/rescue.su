@@ -1,0 +1,4 @@
+../App/domain/service/rescue.c:21:11:Rescue_Initialize	152	static
+../App/domain/service/rescue.c:32:11:Rescue_Deinitialize	4	static
+../App/domain/service/rescue.c:34:6:Rescue_GetLastErrorInfo	16	static
+../App/domain/service/rescue.c:40:6:Rescue_Process	16	static

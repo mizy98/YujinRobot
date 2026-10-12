@@ -1,0 +1,6 @@
+../App/infrastructure/service/tusb_adaptor.c:52:6:tusb_generate_serial_number	32	static
+../App/infrastructure/service/tusb_adaptor.c:64:6:TusbAdaptor_Initialize	8	static
+../App/infrastructure/service/tusb_adaptor.c:67:16:tud_descriptor_configuration_cb	16	static
+../App/infrastructure/service/tusb_adaptor.c:73:16:tud_descriptor_device_cb	4	static
+../App/infrastructure/service/tusb_adaptor.c:76:17:tud_descriptor_string_cb	24	static
+../App/infrastructure/service/tusb_adaptor.c:96:6:tud_cdc_line_coding_cb	16	static

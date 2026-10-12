@@ -1,0 +1,6 @@
+../App/domain/interface/bank_voltage.c:3:21:BankVoltage_Initialize	1
+../App/domain/interface/bank_voltage.c:5:21:BankVoltage_DeInitialize	1
+../App/domain/interface/bank_voltage.c:7:16:BankVoltage_GetLastErrorInfo	2
+../App/domain/interface/bank_voltage.c:13:21:BankVoltage_GetData	1
+../App/domain/interface/bank_voltage.c:20:21:BankVoltage_GetInputVoltage	1
+../App/domain/interface/bank_voltage.c:25:21:BankVoltage_GetContactorTemperatureData	1

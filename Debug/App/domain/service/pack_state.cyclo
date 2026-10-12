@@ -1,0 +1,11 @@
+../App/domain/service/pack_state.c:56:21:_parseProtectionState	3
+../App/domain/service/pack_state.c:68:13:_isConstantCurrentCharge	8
+../App/domain/service/pack_state.c:185:21:_parseTimeCharge	8
+../App/domain/service/pack_state.c:231:21:_parseChargeState	5
+../App/domain/service/pack_state.c:253:21:_parseSleepState	14
+../App/domain/service/pack_state.c:316:21:_processStateChange	3
+../App/domain/service/pack_state.c:333:11:PackState_Initialize	4
+../App/domain/service/pack_state.c:372:6:PackState_GetErrorInfo	2
+../App/domain/service/pack_state.c:378:14:PackState_ParseState	4
+../App/domain/service/pack_state.c:403:6:PackState_WakeUp	3
+../App/domain/service/pack_state.c:412:14:PackState_GetCurrentState	1

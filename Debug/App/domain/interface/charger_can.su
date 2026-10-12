@@ -1,0 +1,6 @@
+../App/domain/interface/charger_can.c:3:21:ChargerCan_Initialize	16	static
+../App/domain/interface/charger_can.c:9:21:ChargerCan_Deinitialize	4	static
+../App/domain/interface/charger_can.c:11:16:ChargerCan_GetLastErrorInfo	16	static
+../App/domain/interface/charger_can.c:17:21:ChargerCan_Process	16	static
+../App/domain/interface/charger_can.c:19:27:ChargerCan_GetState	4	static
+../App/domain/interface/charger_can.c:21:16:ChargerCan_GetStatus	16	static

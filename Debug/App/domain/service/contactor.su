@@ -1,0 +1,10 @@
+../App/domain/service/contactor.c:52:13:_isValidState	16	static
+../App/domain/service/contactor.c:56:17:_elapsedTick	16	static
+../App/domain/service/contactor.c:58:13:_isPrechargeUsed	16	static
+../App/domain/service/contactor.c:62:13:_processContactor	40	static
+../App/domain/service/contactor.c:159:11:Contactor_Initialize	160	static
+../App/domain/service/contactor.c:205:11:Contactor_Deinitialize	4	static
+../App/domain/service/contactor.c:207:6:Contactor_GetLastErrorInfo	16	static
+../App/domain/service/contactor.c:212:6:Contactor_SetState	24	static
+../App/domain/service/contactor.c:272:6:Contactor_GetState	16	static
+../App/domain/service/contactor.c:290:6:Contactor_Process	8	static

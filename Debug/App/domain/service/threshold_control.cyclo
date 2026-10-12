@@ -1,0 +1,13 @@
+../App/domain/service/threshold_control.c:23:13:ThresholdControl_IsValidHandle	5
+../App/domain/service/threshold_control.c:41:13:ThresholdControl_IsValidConfig	3
+../App/domain/service/threshold_control.c:53:13:_isDurationExpired	3
+../App/domain/service/threshold_control.c:67:13:_resetDuration	1
+../App/domain/service/threshold_control.c:72:5:ThresholdControl_Initialize	4
+../App/domain/service/threshold_control.c:91:7:ThresholdControl_Create	5
+../App/domain/service/threshold_control.c:122:6:ThresholdControl_Destroy	5
+../App/domain/service/threshold_control.c:146:6:ThresholdControl_CheckValue	20
+../App/domain/service/threshold_control.c:218:6:ThresholdControl_IsActive	2
+../App/domain/service/threshold_control.c:227:5:ThresholdControl_UpdateConfig	3
+../App/domain/service/threshold_control.c:243:6:ThresholdControl_ResetDuration	2
+../App/domain/service/threshold_control.c:254:6:ThresholdControl_Reset	2
+../App/domain/service/threshold_control.c:266:6:ThresholdControl_IsTriggered	4

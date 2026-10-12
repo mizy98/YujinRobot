@@ -1,0 +1,8 @@
+../App/infrastructure/service/adc_driver.c:15:12:_write	24	static
+../App/infrastructure/service/adc_driver.c:22:12:_read	24	static
+../App/infrastructure/service/adc_driver.c:29:11:AdcDriver_Initialize	168	static
+../App/infrastructure/service/adc_driver.c:75:11:AdcDriver_Deinitialize	144	static
+../App/infrastructure/service/adc_driver.c:97:6:AdcDriver_IsInitialized	4	static
+../App/infrastructure/service/adc_driver.c:99:6:AdcDriver_GetLastErrorInfo	16	static
+../App/infrastructure/service/adc_driver.c:105:11:AdcDriver_Read	168	static
+../App/infrastructure/service/adc_driver.c:170:7:AdcDriver_ConvertToVoltage	16	static
